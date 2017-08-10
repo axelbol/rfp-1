@@ -35,5 +35,8 @@ Un parrafo: "Implementar un sistema de cobranzas y pagos"
 # LISTADO REQUERIMIENTOS.
 	1. Seguridad
 	2. [Registro de proveedores.](https://github.com/ernestomar/rfp/issues/1)
+	3. [Registro de proveedores.]https://github.com/ernestomar/rfp/issues/1
+	4. [Registro de proveedores.]:https://github.com/ernestomar/rfp/issues/1
+	5. [Registro de proveedores.][1]
 	
 
