@@ -1,6 +1,6 @@
 JUGUETERIA "playmobil"
 
-PROBLEMA
+PROBLEMA 1
 
 La jugueteria "playmobil" es una importadore de juguetes, esta importa juguetes del exterior y tiene una casa matriz (donde llegan los juguetes) y tres sucursales establecidas en la ciudad de La Paz. La casa matriz no vende los juguetes lo unico que hace es proveer de juguetes a las tres sucursales.
 
