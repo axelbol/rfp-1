@@ -1,42 +1,38 @@
-# TITULO DEL PROYECTO A SOLICITAR
+JUGUETERIA "playmobil"
 
-## PROBLEMA
-Describir el problema puntualmente. 3 parrafos
+PROBLEMA
 
-## PROPUESTA GENERAL DE SOLUCIÓN
-Un parrafo: "Implementar un sistema de cobranzas y pagos"
+La jugueteria "playmobil" es una importadore de juguetes, esta importa juguetes del exterior y tiene una casa matriz (donde llegan los juguetes) y tres sucursales establecidas en la ciudad de La Paz. La casa matriz no vende los juguetes lo unico que hace es proveer de juguetes a las tres sucursales.
 
-## VALOR PAR EL NEGOCIO
+Playmobil requiere tener un registro de los juguetes importados ya que estos son registrados de manera manual al momento de arribar a la casa matriz, es muy tedioso y agotador tener que registrar los códigos de los juguetes en un cuaderno, y es un problema a la hora de proveer estos juguetes a las sucursales. Debido al registro manual de los codigos de los jugutes la devolución de estos, en casos defectuosos, es un problema para las sucursales. Otro problema muy recurrente es el poder visualizar la información de ventas de las sucursales, ya que las sucursales informan a la casa matriz semanalmente mediante correo, esto conlleva a que en una emergencia de juguetes (falta de estos) el pedido se haga telefonicamente.
 
-### TANGIBLE
- - Evitara dobles pagos a proveedores disminuyendo perdidas.
- - Permitira pago oportuno a proveedores, evitando el pago de intereses.
- 
-### INTANGIBLE
- -
+Las sucursales realizan el registro manual de las ventas al finalizar el dia laboral, este es un problema porque les toma mucho tiempo y en algunas ocasiones los calculos de ventas no coinciden y tienen que volver a revisar las ventas. Solicitar nuevo stock de juguetes es un proceso que demora mucho tiempo, ya que lo realizan mediante correo electronico y este demora una semana en llegar.
 
-## FACTIBILIDAD (ANÁLISIS DE RIESGOS)
+PROPUESTA GENERAL DE SOLUCIÓN
 
-### ECONOMICA
- - El sistema costara ...
- - Se requiere comprar un servidor
- - Se requiere instalar internet en todas las sucursales
- - El ROI sera de ... en tantos años
- 
-### TECNICA
- -
- -
+Implementar un sistema donde se pueda gestionar el ingreso de juguetes nuevos (casa matriz) y la distribucion de estos a las sucursales. La casa matriz debera poder visualizar la informacion de ventas y devoluciones de las sucursales, en caso de falta de juguetes en alguna sucursal, dicha sucursal debera poder solicitar mas productos en caso de tener poco stock. La casa matriz y las sucursales deberan poder visualizar indicadores basicos de las ventas realizadas.
 
-### ORGANIZACIONAL
- -
- -
- 
- 
-# LISTADO REQUERIMIENTOS.
-	1. Seguridad
-	2. [Registro de proveedores.](https://github.com/ernestomar/rfp/issues/1)
-	3. [Registro de proveedores.]https://github.com/ernestomar/rfp/issues/1
-	4. [Registro de proveedores.]:https://github.com/ernestomar/rfp/issues/1
-	5. [Registro de proveedores.][1]
+VALOR PARA EL NEGOCIO
+
+	TANGIBLE
+
+	-Permitira tener control de la distribucion de los juguetes a las sucursales.
+
+	-Permitira poder tener control de las sucursales.
+
+	-Evitara el retraso en abastecemiento de nuevos productos a las sucursales.
 	
+	-Permitira tener control de las devoluciones.
 
+	-Permitira ver el estado de la venta de los productos en las sucurales con indicadores.
+	
+	INTANGIBLE
+
+FACTIBILIDAD (ANÁLISIS DE RIESGO)
+	ECONÓMICA
+
+	TÉCNICA
+
+	ORGANIZACIONAL
+
+LISTADO DE REQUERIMIENTOS
