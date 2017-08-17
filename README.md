@@ -37,3 +37,8 @@ FACTIBILIDAD (ANÁLISIS DE RIESGO)
 
 LISTADO DE REQUERIMIENTOS
  1. [Casa Matriz: Registro de juguetes](https://github.com/axelbol/rfp-1/issues/1)
+ 2. [Casa Matriz: Administración de sucursales](https://github.com/axelbol/rfp-1/issues/2)
+ 3. [Casa Matriz: Administración de catálogo](https://github.com/axelbol/rfp-1/issues/3)
+ 4. [Casa Matriz: Administración de usuarios](https://github.com/axelbol/rfp-1/issues/4)
+ 5. [Casa Matriz: Indicadores de rendimiento](https://github.com/axelbol/rfp-1/issues/5)
+ 6. [Plataforma web](https://github.com/axelbol/rfp-1/issues/6)
