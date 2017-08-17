@@ -36,12 +36,15 @@ VALOR PARA EL NEGOCIO
 
 	- Se tendra un registro de las devoluciones
 
-	
+
 
 FACTIBILIDAD (ANÁLISIS DE RIESGO)
 	ECONÓMICA
 
 	TÉCNICA
+
+	Para la implementacion del sistema, se necesitara de un servidor WEB, que funcione durante 8 horas, 6 dias a la semana
+	Todos los empleados necesitaran de algun dispositivo movil con conexion a internet, para poder ejecutar la apliacacion
 
 	ORGANIZACIONAL
 
