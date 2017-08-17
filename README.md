@@ -36,3 +36,4 @@ FACTIBILIDAD (ANÁLISIS DE RIESGO)
 	ORGANIZACIONAL
 
 LISTADO DE REQUERIMIENTOS
+ 1. [Casa Matriz: Registro de juguetes](https://github.com/axelbol/rfp-1/issues/1)
