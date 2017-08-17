@@ -28,6 +28,16 @@ VALOR PARA EL NEGOCIO
 	
 	INTANGIBLE
 
+	- El sistema permitira lograr una mejor gestion de la compañia
+
+	- Las solicitudes podran ser realizadas en tiempo real 
+
+	- Existira celeridad dentro los procesos criticos de la empresa
+
+	- Se tendra un registro de las devoluciones
+
+	
+
 FACTIBILIDAD (ANÁLISIS DE RIESGO)
 	ECONÓMICA
 
@@ -36,9 +46,16 @@ FACTIBILIDAD (ANÁLISIS DE RIESGO)
 	ORGANIZACIONAL
 
 LISTADO DE REQUERIMIENTOS
- 1. [Casa Matriz: Registro de juguetes](https://github.com/axelbol/rfp-1/issues/1)
- 2. [Casa Matriz: Administración de sucursales](https://github.com/axelbol/rfp-1/issues/2)
- 3. [Casa Matriz: Administración de catálogo](https://github.com/axelbol/rfp-1/issues/3)
- 4. [Casa Matriz: Administración de usuarios](https://github.com/axelbol/rfp-1/issues/4)
- 5. [Casa Matriz: Indicadores de rendimiento](https://github.com/axelbol/rfp-1/issues/5)
- 6. [Plataforma web](https://github.com/axelbol/rfp-1/issues/6)
+1. [Casa Matriz: Registro de juguetes](https://github.com/axelbol/rfp-1/issues/1)
+2. [Casa Matriz: Administración de sucursales](https://github.com/axelbol/rfp-1/issues/2)
+3. [Casa Matriz: Administración de catálogo](https://github.com/axelbol/rfp-1/issues/3)
+4. [Casa Matriz: Administración de usuarios](https://github.com/axelbol/rfp-1/issues/4)
+5. [Casa Matriz: Indicadores de rendimiento](https://github.com/axelbol/rfp-1/issues/5)
+6. [Plataforma web](https://github.com/axelbol/rfp-1/issues/6)
+7. [Sucursal: Gestión de Ventas](https://github.com/axelbol/rfp-1/issues/7)
+8. [Sucursal: Solicitud de productos](https://github.com/axelbol/rfp-1/issues/8)
+9. [Sucursal: Indicadores básicos de ventas ](https://github.com/axelbol/rfp-1/issues/9)
+10. [Sucursal: Estado de alamaces](https://github.com/axelbol/rfp-1/issues/10)
+11. [Sucursal información del producto](https://github.com/axelbol/rfp-1/issues/11)
+12. [Sucursal: Facturacion](https://github.com/axelbol/rfp-1/issues/12)
+13. [Sucursales: Devoluciones](https://github.com/axelbol/rfp-1/issues/13)
