@@ -39,14 +39,24 @@ VALOR PARA EL NEGOCIO
 
 
 FACTIBILIDAD (ANÁLISIS DE RIESGO)
+	
 	ECONÓMICA
+	
+	- El sistema costara 15000 Bs.
+	- Se requiere comprar computadoras e impresoras.
+	- Se requiere comprar un servidor.	
+	- Se requiere instalar internet en todas las sucursales.
 
 	TÉCNICA
 
-	Para la implementacion del sistema, se necesitara de un servidor WEB, que funcione durante 8 horas, 6 dias a la semana
-	Todos los empleados necesitaran de algun dispositivo movil con conexion a internet, para poder ejecutar la apliacacion
+	- Se necesitará diseñar la base de datos en mysql.
+	- Se usara el lenguaje de programacion PHP.
+	- El sistema deberá funcionar las 24 horas del día.
 
 	ORGANIZACIONAL
+	
+	- Se capacitará al personal para el respectivo uso del sistema.
+	- Tendrá un manual de usuario.
 
 LISTADO DE REQUERIMIENTOS
 1. [Casa Matriz: Registro de juguetes](https://github.com/axelbol/rfp-1/issues/1)
