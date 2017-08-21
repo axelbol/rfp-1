@@ -2,7 +2,7 @@ JUGUETERIA "playmobil"
 
 PROBLEMA
 
-La jugueteria "playmobil" es una importadore de juguetes, esta importa juguetes del exterior y tiene una casa matriz (donde llegan los juguetes) y tres sucursales establecidas en la ciudad de La Paz. La casa matriz no vende los juguetes lo unico que hace es proveer de juguetes a las tres sucursales.
+La jugueteria "playmobil" es una importadora de juguetes, esta importa juguetes del exterior y tiene una casa matriz (donde llegan los juguetes) y tres sucursales establecidas en la ciudad de La Paz. La casa matriz no vende los juguetes lo unico que hace es proveer de juguetes a las tres sucursales.
 
 Playmobil requiere tener un registro de los juguetes importados ya que estos son registrados de manera manual al momento de arribar a la casa matriz, es muy tedioso y agotador tener que registrar los códigos de los juguetes en un cuaderno, y es un problema a la hora de proveer estos juguetes a las sucursales. Debido al registro manual de los codigos de los jugutes la devolución de estos, en casos defectuosos, es un problema para las sucursales. Otro problema muy recurrente es el poder visualizar la información de ventas de las sucursales, ya que las sucursales informan a la casa matriz semanalmente mediante correo electronico, esto conlleva a que en una emergencia de juguetes (falta de estos) el pedido se haga telefonicamente.
 
@@ -44,7 +44,7 @@ FACTIBILIDAD (ANÁLISIS DE RIESGO)
 	
 	- El sistema costara 59600 Bs.
 	
-	[Costo](https://github.com/axelbol/rfp-1/issues/15)
+	1. [Costo](https://github.com/axelbol/rfp-1/issues/15)
 	
 	TÉCNICA
 
