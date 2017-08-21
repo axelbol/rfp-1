@@ -44,39 +44,8 @@ FACTIBILIDAD (ANÁLISIS DE RIESGO)
 	
 	- El sistema costara 59600 Bs.
 	
-Nº	Descripción			Cantidad	Precio Unitario	Total (Bs.)
-
-1	Computador de escritorio	6		 2400		14400
-
-2	Impresora			1		 1200		 1200
-
-3	Computador portátil		1		 3500		 3500
-
-4	Material de Escritorio		1		  400		  400
-
-5	Dispositivos móviles(Tablets)	2		 2100		 4200
-
-6	Cafetera (Oficina)		1		  300		  300
-
-7	Salario (Líder de desarrollo)	1		12000		12000
-
-8	Salario (Equipo de desarrollo)	1		10200		10200
-
-9	Salario (Secretaria)		1		 3600		 3600
-
-10	Alquiler Vehículo		1		 1400		 1400
-
-11	Alquiler Oficina		1		 7000		 7000
-
-12	Servicio Internet		1		  900		  900
-
-13	Servicio Agua			1		  100		  100
-
-14	Servicio Electricidad		1		  400		  400
-					
-							Total (Bs.)	59600
-
-
+	[Costo](https://github.com/axelbol/rfp-1/issues/15)
+	
 	TÉCNICA
 
 	- Se necesitará diseñar la base de datos en mysql.
