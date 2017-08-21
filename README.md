@@ -44,7 +44,7 @@ FACTIBILIDAD (ANÁLISIS DE RIESGO)
 	
 	- El sistema costara 59600 Bs.
 	
-	1. [Costo](https://github.com/axelbol/rfp-1/issues/15)
+[Costo](https://github.com/axelbol/rfp-1/issues/15)
 	
 	TÉCNICA
 
