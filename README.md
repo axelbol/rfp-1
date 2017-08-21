@@ -42,7 +42,28 @@ FACTIBILIDAD (ANÁLISIS DE RIESGO)
 	
 	ECONÓMICA
 	
-	- El sistema costara 15000 Bs.
+	- El sistema costara 59600 Bs.
+	
+Nº	Descripción			Cantidad	Precio Unitario	Total (Bs.)
+1	Computador de escritorio	6		 2400		14400
+3	Impresora			1		 1200		 1200
+4	Computador portátil		1		 3500		 3500
+5	Material de Escritorio		1		  400		  400
+6	Dispositivos móviles(Tablets)	2		 2100		 4200
+7	Cafetera (Oficina)		1		  300		  300
+8	Salario (Líder de desarrollo)	1		12000		12000
+9	Salario (Equipo de desarrollo)	1		10200		10200
+10	Salario (Secretaria)		1		 3600		 3600
+13	Alquiler Vehículo		1		 1400		 1400
+14	Alquiler Oficina		1		 7000		 7000
+15	Servicio Internet		1		  900		  900
+16	Servicio Agua			1		  100		  100
+17	Servicio Electricidad		1		  400		  400
+					
+							Total (Bs.)	59600
+
+
+	
 	- Se requiere comprar computadoras e impresoras.
 	- Se requiere comprar un servidor.	
 	- Se requiere instalar internet en todas las sucursales.
