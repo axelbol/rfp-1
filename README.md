@@ -46,7 +46,7 @@ FACTIBILIDAD (ANÁLISIS DE RIESGO)
 	
 [Costo](https://github.com/axelbol/rfp-1/issues/15)
 
-	- En caso de quedarnos sin internet, la solución que planeamos es realizar un contrato con dos empresas que brinden este 		servicio, en caso de fallar una pasariamos a usar la otra.
+	- En caso de quedarnos sin internet, la solución que planeamos es realizar un contrato con dos empresas que brinden este servicio, en caso de fallar una pasariamos a usar la otra.
 	
 	- En caso de quedarnos sin luz, la solución que planteamos es trabajar con computadoras portátiles.
 	
